@@ -1,0 +1,6 @@
+{
+  "name": "Oráculo de Mérito - Sexta Ley Omega",
+  "description": "Sexta Ley de la Arquitectura Omega: Reflejo Dimensional, Lógica de Retículos Ortomodulares y el Oráculo de Mérito",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
